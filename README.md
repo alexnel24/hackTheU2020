@@ -1,6 +1,6 @@
 # hackTheU2020
 <br>
-## Galileo API challenge
+# Galileo API challenge
 <br>
 <br>
 
