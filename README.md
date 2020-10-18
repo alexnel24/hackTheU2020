@@ -10,6 +10,7 @@ Built a reward system for nba players both webscraping basketballreference.com a
 
 <br>
 CODE IS FOUND INSIDE PYCHARM FOLDER
+<br>
 MOST APPLICABLE CODE IS INSIDE:
 <br>
 galileoRequestFunctions.py
